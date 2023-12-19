@@ -1,4 +1,6 @@
 # EIGENVALUES-AND-EIGENVECTORS
+# Name:Jeshwanth Kumar
+# Reg.No:212223240114
 ## Aim:
 To write a python program to find the Eigenvalues and Eigen Vectors
 ## Equipment’s required:
@@ -17,7 +19,8 @@ Using the np.linalg.eig(), we get two results (first is eigenvalue and second is
 ### Step 4:
 End the program
 ## Program:
-```#Program to find the eigen values and eigen vectors.
+```
+#Program to find the eigen values and eigen vectors.
 #Developed by: Jeshwanth kumar
 #RegisterNumber: 23002519
 import numpy as np
@@ -27,7 +30,8 @@ print("Eigen values are {} and Eigen Vectors are {}".format(values,vectors))
 ```
 
 ## Output:
-![image](https://github.com/Jeshwanthkumarpayyavula/EIGENVALUES-AND-EIGENVECTORS/assets/145742402/b9895733-4fd7-40f4-8197-f4673f7768e2)
+![image](https://github.com/Jeshwanthkumarpayyavula/EIGENVALUES-AND-EIGENVECTORS/assets/145742402/764bfc95-6577-4178-b3bd-994a2a91a722)
+
 
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
